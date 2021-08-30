@@ -1,0 +1,7 @@
+[26-Jan-2020 05:02:14 UTC] PHP Warning:  include(qdbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 35
+[26-Jan-2020 05:02:14 UTC] PHP Warning:  include(qdbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 35
+[26-Jan-2020 05:02:14 UTC] PHP Warning:  include(): Failed opening 'qdbConfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/crteck/public_html/iBulletin/6/6.php on line 35
+[26-Jan-2020 05:02:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/crteck/public_html/iBulletin/6/6.php:45
+Stack trace:
+#0 {main}
+  thrown in /home4/crteck/public_html/iBulletin/6/6.php on line 45

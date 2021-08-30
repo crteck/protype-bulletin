@@ -1,0 +1,51 @@
+[26-Jan-2020 02:12:33 UTC] PHP Warning:  include(dbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 9
+[26-Jan-2020 02:12:33 UTC] PHP Warning:  include(dbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 9
+[26-Jan-2020 02:12:33 UTC] PHP Warning:  include(): Failed opening 'dbConfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/crteck/public_html/iBulletin/6/6.php on line 9
+[26-Jan-2020 02:12:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/crteck/public_html/iBulletin/6/6.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/crteck/public_html/iBulletin/6/6.php on line 12
+[26-Jan-2020 02:12:50 UTC] PHP Warning:  include(dbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 9
+[26-Jan-2020 02:12:50 UTC] PHP Warning:  include(dbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 9
+[26-Jan-2020 02:12:50 UTC] PHP Warning:  include(): Failed opening 'dbConfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/crteck/public_html/iBulletin/6/6.php on line 9
+[26-Jan-2020 02:12:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/crteck/public_html/iBulletin/6/6.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/crteck/public_html/iBulletin/6/6.php on line 12
+[26-Jan-2020 02:13:11 UTC] PHP Warning:  include(dbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 9
+[26-Jan-2020 02:13:11 UTC] PHP Warning:  include(dbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 9
+[26-Jan-2020 02:13:11 UTC] PHP Warning:  include(): Failed opening 'dbConfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/crteck/public_html/iBulletin/6/6.php on line 9
+[26-Jan-2020 02:13:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/crteck/public_html/iBulletin/6/6.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/crteck/public_html/iBulletin/6/6.php on line 12
+[26-Jan-2020 02:14:41 UTC] PHP Warning:  include(dbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 9
+[26-Jan-2020 02:14:41 UTC] PHP Warning:  include(dbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 9
+[26-Jan-2020 02:14:41 UTC] PHP Warning:  include(): Failed opening 'dbConfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/crteck/public_html/iBulletin/6/6.php on line 9
+[26-Jan-2020 02:14:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/crteck/public_html/iBulletin/6/6.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/crteck/public_html/iBulletin/6/6.php on line 12
+[26-Jan-2020 02:15:09 UTC] PHP Warning:  include(dbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 9
+[26-Jan-2020 02:15:09 UTC] PHP Warning:  include(dbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 9
+[26-Jan-2020 02:15:09 UTC] PHP Warning:  include(): Failed opening 'dbConfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/crteck/public_html/iBulletin/6/6.php on line 9
+[26-Jan-2020 02:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/crteck/public_html/iBulletin/6/6.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/crteck/public_html/iBulletin/6/6.php on line 12
+[26-Jan-2020 02:17:44 UTC] PHP Warning:  include(dbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 34
+[26-Jan-2020 02:17:44 UTC] PHP Warning:  include(dbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 34
+[26-Jan-2020 02:17:44 UTC] PHP Warning:  include(): Failed opening 'dbConfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/crteck/public_html/iBulletin/6/6.php on line 34
+[26-Jan-2020 02:17:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/crteck/public_html/iBulletin/6/6.php:37
+Stack trace:
+#0 {main}
+  thrown in /home4/crteck/public_html/iBulletin/6/6.php on line 37
+[26-Jan-2020 02:17:51 UTC] PHP Warning:  include(dbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 34
+[26-Jan-2020 02:17:51 UTC] PHP Warning:  include(dbConfig.php): failed to open stream: No such file or directory in /home4/crteck/public_html/iBulletin/6/6.php on line 34
+[26-Jan-2020 02:17:51 UTC] PHP Warning:  include(): Failed opening 'dbConfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/crteck/public_html/iBulletin/6/6.php on line 34
+[26-Jan-2020 02:17:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/crteck/public_html/iBulletin/6/6.php:37
+Stack trace:
+#0 {main}
+  thrown in /home4/crteck/public_html/iBulletin/6/6.php on line 37
+[26-Jan-2020 03:28:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/crteck/public_html/iBulletin/6/6.php on line 101
+[26-Jan-2020 03:29:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/crteck/public_html/iBulletin/6/6.php on line 101
